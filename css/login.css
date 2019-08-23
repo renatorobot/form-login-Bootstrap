@@ -1,0 +1,10 @@
+body{
+
+	background: url(../imagens/img-fundo-login.jpg) no-repeat center center fixed;
+
+}
+
+.form-control, button{
+	
+    box-shadow: none !important;
+}
